@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # serverless-recipe-generator
-=======
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -55,4 +54,4 @@ export default tseslint.config({
   },
 })
 ```
->>>>>>> f72f16e (first commit)
+
